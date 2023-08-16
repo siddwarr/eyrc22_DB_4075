@@ -1,4 +1,4 @@
-# Spider R&D Club - Delivery Bike Bot
+# Delivery Bike Bot
 
 ## Project Overview
 
@@ -9,16 +9,16 @@ The objective is to achieve stable and efficient movement using control theory a
 
 ## Project Details
 
-- Description:The Delivery Bike Bot project aims to design and simulate an autonomous delivery bike capable of following paths and crossing different terrains.
-- Duration: August 2022 to Mat 2023
+- Description: The Delivery Bike Bot project aims to design and simulate an autonomous delivery bike capable of following paths and crossing different terrains.
+- Duration: August 2022 to May 2023
 
 ## Project Contents
 
 The project is organized into several tasks, each contributing to the overall goal of creating a functional delivery bike. Here is a brief overview of the major tasks:
 
-1. **Modeling of a Non-Linear System - Simple Pendulum (Task 1A and Task1B):** Initial modeling and analysis of a simple pendulum system, which serves as a basis for understanding and developing the main bike control logic.
-2. **Delivery Bike Design for CoppeliaSim Simulation (Task 1C):** Design and simulation of the delivery bike in CoppeliaSim, focusing on aspects like weight distribution, stability, and cargo storage.
-3. **Balancing and Control (Task 2A):** Implementation of control logic similar to an LQR controller for balancing the delivery bike and controlling its movement.
+1. **Modeling of a Non-Linear System - Simple Pendulum (Task 1A and Task 1B):** Initial modeling and analysis of a simple pendulum system, which serves as a basis for understanding and developing the main bike control logic.
+2. **Delivery Bike Design for CoppeliaSim Simulation (Task 1C):** Design and simulation of the delivery bike in CoppeliaSim, focusing on weight distribution, stability, and cargo storage.
+3. **Balancing and Control (Task 2A):** Implementation of control logic similar to an LQR controller for balancing the delivery bike and its movement.
 4. **Path Following (Task 2B):** Development of path-following algorithms using sensor data to ensure the bike accurately follows a specified path.
 5. **Bridge Crossing (Task 2C):** Adjusting control parameters and gain matrices to enable the bike to safely cross bridges and other challenging terrains.
 6. **Terrain Traversal (Task 3):** Fine-tuning control parameters for traversing various terrains, including speed bumps and bridges.
